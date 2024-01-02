@@ -1,4 +1,4 @@
-/** 
+ /** 
 Author:    Build Rise Shine with Nyros (BRS) 
 Created:   2023
 Library / Component: Script file
@@ -26,7 +26,7 @@ const bgURL = [
   "./assets/img/landing-bg-3.jpg",
   "./assets/img/landing-bg-4.jpg",
   "./assets/img/landing-bg-5.jpg",
-];
+  ];
 
 // DOM Elements
 const landingpageBg = document.getElementById("landingpageBg");
